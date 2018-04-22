@@ -301,14 +301,31 @@ __Full links to bought books__
         <td></td>
     </tr>
     <tr>
+        <td>The Prince</td>
+        <td>42</td>
+        <td>622</td>
+        <td>A Higher Loyalty</td>
+        <td>299</td>
+        <td>598</td>
+    </tr>
+    <tr><td colspan="6">&nbsp;</td></tr>    
+    <tr>
         <td>Thinking Fast and Slow</td>
         <td>499</td>
-        <td>1079</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
-   
+    <tr>
+        <td>A Higher Loyalty</td>
+        <td>299</td>
+        <td>798</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    
 </thead>
 <tbody>
 </tbody>
@@ -336,6 +353,10 @@ __Full links to read books__
   - https://www.amazon.com/Ethics-Toolkit-Compendium-Concepts-Editions-ebook/dp/B001F0PYNW/
 - Thinking Fast and Slow (Kahneman)
   - https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/
+- The Prince (Machiavelli)
+  - https://www.amazon.com/Prince-Chump-Change-Niccolo-Machiavelli/dp/1640320202/
+- A Higher Loyalty (Comey)
+  - https://www.amazon.com/Higher-Loyalty-Truth-Lies-Leadership/dp/1250192455
 
 __Full links to bought books__
 
@@ -343,7 +364,8 @@ __Full links to bought books__
   - https://www.amazon.com/Ethics-Toolkit-Compendium-Concepts-Editions-ebook/dp/B001F0PYNW/
 - Taming the Sun (Sivaram)
   - https://www.amazon.com/Taming-Sun-Innovations-Harness-Energy-ebook/dp/B07B61K7Z9/
-  
+- A Higher Loyalty (Comey)
+  - https://www.amazon.com/Higher-Loyalty-Truth-Lies-Leadership/dp/1250192455
 
 *Science Fiction*
 -----------------
@@ -418,7 +440,15 @@ __Full links to bought books__
     <tr>
         <td>Computing: A Concise History</td>
         <td>199</td>
-        <td>773</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Hackers: Heroes...</td>
+        <td>520</td>
+        <td>1293</td>
         <td></td>
         <td></td>
         <td></td>
@@ -435,4 +465,7 @@ __Full links to read books__
   - https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother-ebook/dp/B01KX5G01Y/
 - Computing: A Concise History (Ceruzzi)
   - https://www.amazon.com/Computing-Concise-History-Essential-Knowledge/dp/0262517671/
+- Hackers: Heroes of the Computer Revolution (Levy)
+  - https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396/
+  
   
