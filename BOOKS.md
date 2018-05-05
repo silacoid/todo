@@ -83,9 +83,17 @@ Status: Not on track (math, science fiction behind)
         <td/>
     </tr>
     <tr>
+        <td>XML in a Nutshell</td>
+        <td>600</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+    </tr>
+    <tr>
         <td>The Hitchhiker's Guide to Python</td>
         <td>338</td>
-        <td>798</td>
+        <td>1398</td>
         <td>General Artificial Intelligence</td>
         <td>760</td>
         <td>1520</td>
@@ -109,6 +117,8 @@ __Full links to read books__
   - https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/
 - The Hitchhiker's Guide to Python (Reitz)
   - https://www.amazon.com/Hitchhikers-Guide-Python-Practices-Development/dp/1491933178/
+- XML in a Nutshell 3rd ed (Harold, Means)
+  - https://www.amazon.com/Nutshell-Third-Elliotte-Rusty-Harold/dp/0596007647/
 
 __Full links to bought books__
 
