@@ -432,6 +432,23 @@ __Full links to bought books__
         <th>Pages*2</th>
     </tr>
     <tr>
+        <td>Computing: A Concise History</td>
+        <td>199</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Hackers: Heroes...</td>
+        <td>520</td>
+        <td>719</td>
+        <td>The Study of Language</td>
+        <td>334</td>
+        <td>668</td>
+    </tr>
+    <tr><td colspan="6">&nbsp;</td></tr>    
+    <tr>
         <td>The Healthy Programmer</td>
         <td>254</td>
         <td/>
@@ -443,25 +460,17 @@ __Full links to bought books__
         <td>The Art of Invisibility</td>
         <td>320</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Introducing English Grammar</td>
+        <td>328</td>
+        <td>648</td>
     </tr>
     <tr>
-        <td>Computing: A Concise History</td>
-        <td>199</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Hackers: Heroes...</td>
-        <td>520</td>
-        <td>1293</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Don Quixote</td>
+        <td>982</td>
+        <td>2275</td>
+        <td/>
+        <td/>
+        <td/>
     </tr>
 </thead>
 <tbody>
@@ -477,5 +486,16 @@ __Full links to read books__
   - https://www.amazon.com/Computing-Concise-History-Essential-Knowledge/dp/0262517671/
 - Hackers: Heroes of the Computer Revolution (Levy)
   - https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396/
+- Don Quixote (Cervantes)
+  - https://www.amazon.com/Don-Quixote-Miguel-Cervantes-ebook/dp/B001R1LCKS/
+
+
+__Full links to bought books__
+- Introducing English Grammar (Börjars, Burridge)
+  - https://www.amazon.com/Introducing-English-Grammar-Kersti-B%C3%B6rjars/dp/1444109871/
+- The Study of Language (Yule)
+  - https://www.amazon.com/Study-Language-George-Yule/dp/1107658179/ 
+
+
   
   
