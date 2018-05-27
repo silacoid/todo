@@ -5,6 +5,8 @@ Must read books that sums up to twice the page count to buy one new
 
 Spare pages do not spill over!
 
+* = edition update of already owned books, pages are not doubled
+
 Status: Not on track (math, science fiction behind)
 
 *IT*
@@ -29,17 +31,9 @@ Status: Not on track (math, science fiction behind)
         <td>Effective Python</td>
         <td>229</td>
         <td/>
-        <td/>
-        <td/>
-        <td/>
-    </tr>
-    <tr>
-        <td>Test Driven Web Development with Python</td>
-        <td>614</td>
-        <td>843</td>
-        <td>Effective Java</td>
-        <td>416</td>
-        <td>832</td>
+        <td>The Reasoned Schemer*</td>
+        <td>208</td>
+        <td>208/td>
     </tr>
     <tr>
         <td colspan="6">&nbsp;</td>
@@ -48,8 +42,8 @@ Status: Not on track (math, science fiction behind)
         <td>Effective Java</td>
         <td>416</td>
         <td>416</td>
-        <td>The Reasoned Schemer</td>
-        <td>208</td>
+        <td>Effective Java*</td>
+        <td>416</td>
         <td>416</td>
     </tr>
     <tr>
@@ -67,17 +61,9 @@ Status: Not on track (math, science fiction behind)
         <td colspan="6">&nbsp;</td>
     </tr>
     <tr>
-        <td>Graph Databases</td>
-        <td>238</td>
-        <td/>
-        <td/>
-        <td/>
-        <td/>
-    </tr>
-    <tr>
-        <td>Python Testing with pytest</td>
-        <td>222</td>
-        <td/>
+        <td>Test Driven Web Development with Python</td>
+        <td>614</td>
+        <td/>614</td>
         <td/>
         <td/>
         <td/>
@@ -93,10 +79,40 @@ Status: Not on track (math, science fiction behind)
     <tr>
         <td>The Hitchhiker's Guide to Python</td>
         <td>338</td>
-        <td>1398</td>
+        <td>1552</td>
         <td>General Artificial Intelligence</td>
         <td>760</td>
         <td>1520</td>
+    </tr>
+    <tr>
+        <td colspan="6">&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Python Testing with pytest</td>
+        <td>222</td>
+        <td>222</td>
+        <td>Reactive Programming with RxJS 5*</td>
+        <td>146</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td colspan="6">&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Graph Databases</td>
+        <td>238</td>
+        <td>238</td>
+        <td>Seven Databases in Seven Weeks (2nd ed)</td>
+        <td>360</td>
+        <td>360</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td/>
+        <td>Openshift in Action</td>
+        <td>320</td>
+        <td>640</td>
     </tr>
 </tbody>
 </table>
@@ -124,13 +140,16 @@ __Full links to bought books__
 
 - Effective Java (3rd ed) (Joshua Block) 
   - https://www.amazon.com/gp/product/B078H61SCH/
-- The Reasoned Schemer (2ed)
+- The Reasoned Schemer (2ed) 
   - https://www.amazon.com/Reasoned-Schemer-MIT-Press/dp/0262535513/
 - Node.js 8 the Right Way (Wilson)
   - https://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/168050195X/
 - General Artificial Intelligence (DSouza)
   - https://www.amazon.com/General-Artificial-Intelligence-Michael-Dsouza-ebook/dp/B0716L8158/
-  
+- Seven Databases in Seven Weeks (2nd ed) (Perkins,Redmond,Wilson)
+  - https://www.amazon.com/gp/product/B07CYLX6FD/  (360)
+- Openshift in Action
+  - https://www.manning.com/books/openshift-in-action
 
 *Math*
 ------
@@ -203,9 +222,9 @@ __Full links to bought books__
         <td>Astrophysics for People in a Hurry</td>
         <td>224</td>
         <td>224</td>
-        <td/>
-        <td/>
-        <td/>
+        <td>This Idea Must Die</td>
+        <td>592</td>
+        <td>1184</td>
     </tr>
 </tbody>
 </table>
@@ -217,6 +236,8 @@ __Full links to read books__
   - https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391/
 
 __Full links to bought books__
+- This Idea Must Die (Brockman)
+  - https://www.amazon.com/This-Idea-Must-Die-Scientific/dp/0062374346/
 
 
 *Philosophy/History/Politics/Psychology*
@@ -236,6 +257,8 @@ __Full links to bought books__
         <th>Pages</th>
         <th>Pages*2</th>
     </tr>
+</thead>
+<tbody>
     <tr>
         <td>Weapons of Math Destruction</td>
         <td>288</td>
@@ -331,12 +354,19 @@ __Full links to bought books__
         <td>A Higher Loyalty</td>
         <td>299</td>
         <td>798</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>The Mighty and the Almighty</td>
+        <td>368</td>
+        <td>736</td>
     </tr>
-    
-</thead>
+    <tr>
+        <td>The Mighty and the Almighty</td>
+        <td>368</td>
+        <td>368</td>
+        <td/>
+        <td/>
+        <td/>
+    </tr>       
+    <tr><td colspan="6">&nbsp;</td></tr>    
 <tbody>
 </tbody>
 </table>
@@ -376,6 +406,9 @@ __Full links to bought books__
   - https://www.amazon.com/Taming-Sun-Innovations-Harness-Energy-ebook/dp/B07B61K7Z9/
 - A Higher Loyalty (Comey)
   - https://www.amazon.com/Higher-Loyalty-Truth-Lies-Leadership/dp/1250192455
+- The Mighty and the Almighty (Albright)
+  - https://www.amazon.com/Mighty-Almighty-Reflections-America-Affairs/dp/0060892587/
+  
 
 *Science Fiction*
 -----------------
@@ -397,13 +430,14 @@ __Full links to bought books__
 </thead>
 <tbody>
     <tr>
-        <td/>
-        <td/>
-        <td/>
+        <td>Persepolis Rising</td>
+        <td>560</td>
+        <td>560</td>
         <td>Foundation</td>
         <td>272</td>
         <td>544</td>
     </tr>
+    <tr><td colspan="6">&nbsp;</td></tr>
 </tbody>
 </table>
 
@@ -468,6 +502,14 @@ __Full links to bought books__
         <td>Don Quixote</td>
         <td>982</td>
         <td>2275</td>
+        <td/>
+        <td/>
+        <td/>
+    </tr>
+    <tr>
+        <td>Crash Override</td>
+        <td>256</td>
+        <td></td>
         <td/>
         <td/>
         <td/>
